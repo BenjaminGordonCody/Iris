@@ -1,5 +1,5 @@
 class app:
-    
+    '''this class takes a dataframe as an input and 
     def __init__(self, dataframe):
         self.points = dataframe
 
